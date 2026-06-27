@@ -1,11 +1,1 @@
-One
-1
-<<<<<<< HEAD
-
-2222
-
-shucayb Ayuub
-=======
-Maxamed
-Xasan
->>>>>>> 5a61dd58c00e9daa4f93aeb4fce011e1ee43683d
+Maxaad haysaa
