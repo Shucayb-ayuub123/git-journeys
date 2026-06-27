@@ -1,3 +1,8 @@
 Two
 2
 33
+<<<<<<< HEAD
+=======
+shucayb caloosha
+msjjf
+>>>>>>> 5a61dd58c00e9daa4f93aeb4fce011e1ee43683d
